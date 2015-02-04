@@ -1,2 +1,2 @@
 # ISN
-host my isn project
+host my isn project and others
